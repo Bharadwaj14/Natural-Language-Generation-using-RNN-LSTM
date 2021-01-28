@@ -1,0 +1,2 @@
+# Natural Language Generation using RNN LSTM
+Used Pytorch, an open source machine library to implement RNN and LSTM model in the project. The model helped solved the problem of long-range dependencies while generating natural language. The model evaluation with BLEU and Rouge score showed that our model was able to generate natural language sentences with 90% accuracy.
